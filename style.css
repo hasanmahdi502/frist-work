@@ -1,0 +1,110 @@
+body{font-family: 'Poppins', sans-serif;
+          margin: 0;
+          padding: 0;
+          }
+          h1{ font-size: 50px;
+             line-height: 40%;
+          
+          }
+          h3{ font-size: 20px;}
+          .orance{ color: rgb(230, 152, 9);
+          }
+          .banner-text{
+            display: flex;
+          }
+          .side_line{
+            background-color: red;
+            height: 100px;
+            width: 15px;
+            margin-top: 30px;
+            margin-right: 10px;
+            display: flex;
+          }
+          section{
+                display: flex;
+            
+          }
+          .half-wight{
+                   
+                   margin-top: 5%;
+                   margin-left: 10%;
+                   display: flex;
+                   justify-content: space-between;
+                  
+          }
+          .banner_img{
+            width:50%;
+            padding-bottom: 25%;
+            padding-left: 30%;
+          }
+          
+          
+          .top-toper{
+                     height: 30px;
+          }
+          .link-button{
+            text-decoration: none;
+            background-image: linear-gradient(red,yellow);
+            padding: 10px 40px;
+            border-radius: 5px;
+            color: white;
+            font-weight: 700px;
+          }
+          .experiance{
+            display: flex;
+            
+          }
+          .experiance img{
+            width: 100%;
+          }
+          p{
+            padding-bottom: 10px;
+          }
+          .yello{color: yellow;}
+          .top-kalam{
+            width: 50%;
+            margin-top: 5%;
+            margin-left: 10%;
+            height: 30px;
+            margin-top: 75vh;
+          }
+          .experinece-item h1{
+           text-align: center;
+          }
+           
+          
+          .picture img{
+               width: 29%;
+          }
+          .class-1{
+            background-color: rgb(245, 171, 171);
+            padding: 10px;
+           border-radius: 10px;
+           margin: 20px;
+          }
+          
+          .class-1 img{
+            width: 40%;
+          }
+          .class-2{
+            background-color: yellow;
+          }
+          .class-3{
+            background-color: green;
+          }
+          
+          .picture img{
+          width: 80%;
+          }
+          footer{
+            background-color: black;
+            color: white;
+            padding: 20px;
+            text-align: center;
+          
+          }
+          
+          footer h1{
+            text-transform: uppercase;
+            font-style: italic;
+          }
